@@ -1,4 +1,4 @@
-# Renewable energy in the European Union
+# Renewable energy in the European Union¶
 
 
 ## Business Problem 
