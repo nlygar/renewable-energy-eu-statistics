@@ -6,11 +6,16 @@
 
 ## Project Objective 
 
-This project will explore recommendation algorithms with a goal of developing a system that is both accurate and feasible to implement.
+The following goals of data cleansing are addressed in this notebook:
+* Import an Excel-file
+* Inspect the dataset
+* Check data types and do meaningful modifications
+* Handle missings/data gaps
+* Find and solve data inconsistencies
+* Rename columns for improved usage
+* Join tables to a single one
 
-
-## Methods Used
-* Data Visualisation
+Furthermore, the data is investigated at a very high level for illustrative purposes. Here, correlations between different features are examined.
 
 
 ## Technologies
@@ -29,9 +34,7 @@ This project will explore recommendation algorithms with a goal of developing a 
 ## Getting Started 
 
 1. Clone the this repository.
-2. Download the data from the source. 
-3. Unzip the data in the data folder and make sure that the folder structure is as it follows: /data/Netflix_prize_data/
-4. Install all the dependencies
+2. Install all the dependencies
 ```
   pip install requirements.txt 
 ```
