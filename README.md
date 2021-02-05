@@ -34,8 +34,5 @@ Furthermore, the data is investigated at a very high level for illustrative purp
 ## Getting Started 
 
 1. Clone the this repository.
-2. Install all the dependencies
-```
-  pip install requirements.txt 
-```
+2. Install all the dependencies.
 
