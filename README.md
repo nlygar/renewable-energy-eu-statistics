@@ -21,7 +21,7 @@ The following goals are addressed in this notebook:
 Furthermore, the data is investigated at a very high level for illustrative purposes. Here, correlations between different features are examined.
 
 
-## Technologies
+## Pre-requisites
 
 * Python 3
 * Jupyther notebook 
@@ -31,11 +31,23 @@ Furthermore, the data is investigated at a very high level for illustrative purp
 * numpy: Array operations and useful analysis functionalities
 * pandas: data handling library
 
+## Installing dependencies
+
+Note: You can skip this step, if you have the  packages already installed.
+Dependencies are in the requirements.txt file.
+
+Install the dependencies by running : 
+
+```
+  pip3 install -r requirements.txt 
+```
+
+## Directory Structure
+
+* `img/` : Contains image files
+* `data/` :  Contains the speech files 
+
+
 ## Sources 
 * <p align="justify"> The dataset was retrieved on 2020-04-12 from:  https://data.europa.eu/euodp/en/data/dataset/information-on-energy-markets-in-eu-countries-with-national-energy-profiles </p>
-
-## Getting Started 
-
-1. Clone the this repository.
-2. Install all the dependencies.
 
